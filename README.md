@@ -2,10 +2,10 @@
 A jquery plugin fix the sidebar automatically when the content area is too long
 
 ####使用方法
-````javascript
+```javascript
 fixSidebar(selector,top,bottom,triggerScroll)
 fixSidebar('sidebar',30,80,100)
-````javascript
+```
 
 ####参数说明
 + selector是选择器，会被传入到jQuery中，如果没有则退出函数，故如果懒人的话直接加载在全局JS文件中即可。
