@@ -1,6 +1,6 @@
 ## fixSidebar
-A jquery plugin fix the sidebar automatically when the content area is too long
-演示地址 http://www.jx3pve.com/macro
++ A jquery plugin fix the sidebar automatically when the content area is too long
++ 演示地址 http://www.jx3pve.com/macro
 
 ####使用方法
 ```javascript
